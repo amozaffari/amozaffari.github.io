@@ -2,7 +2,7 @@ I am working as a research engineer at the Barcelona Supercomputing Center (BSC)
 
 #### Contact
 Email: amirpasha.mozaffari[at]bsc.es \
-[Resume June 2023](https://github.com/amozaffari/Files/blob/master/amirpasha_academic_CV_june_2023.pdf) \
+[Resume](https://github.com/amozaffari/Files/blob/master/amirpasha_academic_CV_june_2023.pdf) \
 [LinkedIn](https://www.linkedin.com/in/amirpasha-mozaffari/)\
 [Twitter](https://twitter.com/apmozaffari)\
 [ResearchGate](https://www.researchgate.net/profile/Amirpasha-Mozaffari) \
