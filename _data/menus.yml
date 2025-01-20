@@ -1,0 +1,15 @@
+- title: home
+  url: /
+  external: false
+
+- title: about
+  url: /about/
+  external: false 
+
+- title: cv
+  url: https://drive.google.com/file/d/1DhvjlmAruNc9u9CKuzQcXm4n04fIdiEq/view?usp=sharing
+  external: true
+
+- title: archive
+  url: /archive/
+  external: false
